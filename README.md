@@ -1,8 +1,8 @@
 Source: https://docs.elixir.xyz/running-an-elixir-validator
 
-MAINNET
-
 SOFTWARE VERSION: 3.5.9 :
+
+MAINNET
 
 `docker rm -f elixir-mainnet`
 
