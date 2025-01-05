@@ -3,6 +3,7 @@ Source: https://docs.elixir.xyz/running-an-elixir-validator
 MAINNET
 
 SOFTWARE VERSION: 3.5.9 :
+
 `docker rm -f elixir-mainnet`
 
 `docker pull elixirprotocol/validator`
@@ -13,7 +14,6 @@ SOFTWARE VERSION: 3.5.9 :
 
 
 TESTNET
-
 
 `docker rm -f elixir`
 
